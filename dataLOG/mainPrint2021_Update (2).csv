@@ -1,0 +1,8 @@
+Date,Time,Machine,Location,Owner,Priority,Device,Sympton,Detail,Action,Status,Remarks, 
+20210106,14:06:06,MS1,BDG23,oat,bc,printHead,ผิดปกติ,#1 error 12,กระบอกลมรั่ว ทำให้กรีนตก safety สั่งตัด,ปรับระยะช่วย+สั่งซื้อซีล,เครื่องยังใช้งานผลิตได้,
+20210106,14:58:19,labPadder1,BDG24,korn,bc,อุปกรณ์/สายลม,รั่ว,หมดอายุงาน,ซ่อมเสร็จแล้วเปลี่ยนสายลมใหม่หมด,,20210106,
+20210107,12:54:35,ager3,BDG21,kob,bc,ปั๊ม,ผิดปกติ,แรงดันไม่ขึ้น,เกจ์ชำรุด? รอทดสอบใหม่ วันจันทร์หน้า,,,
+20210107,13:06:58,engineer,infra,sukasem,pm,fire risk,clean area,ตัดหญ้า+ขนใบไม้แห้งไปทิ้ง โรงงานปักธงชัยและตะขบ,,,,
+20210108,9:00:19,engineer,infra,sukasem,bc,plc,ปรับปรุง,ติดตั้ง FX3U ENET-ADP ( runtimeย้อม ),,ติดตั้งเสร็จใช้งานได้แล้ว,,
+20210108,9:15:37,engineer,infra,sukasem,bc,plc,ปรับปรุง,ติดตั้ง ENET-ADP (runtime ทอ),,,,
+20210108,16:12:02,Monalisa,BDG18,ying,bc,electrical,ไม่ทำงาน,ไฟฟ้าดับแล้ว UPS ไม่จ่ายไฟ กลุ่ม JP6, ทำให้เกิดผ้าเสีย,,,
